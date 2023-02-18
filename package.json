@@ -1,0 +1,30 @@
+{
+  "name": "kaiyuan1",
+  "version": "0.0.1",
+  "description": "实现Javascript引用类型数据的深拷贝功能",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "files": [
+    "/dist",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PBHAHAHA/kaiyuan.git"
+  },
+  "author": "pbhahaha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PBHAHAHA/kaiyuan/issues"
+  },
+  "homepage": "https://github.com/PBHAHAHA/kaiyuan#readme",
+  "dependencies": {
+    "kaiyuan1": "^0.0.1"
+  }
+}
