@@ -1,6 +1,6 @@
 {
   "name": "kaiyuan1",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "实现Javascript引用类型数据的深拷贝功能",
   "main": "index.js",
   "directories": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/PBHAHAHA/kaiyuan#readme",
   "dependencies": {
-    "kaiyuan1": "^0.0.1"
+    "kaiyuan1": "0.0.2"
   }
 }
