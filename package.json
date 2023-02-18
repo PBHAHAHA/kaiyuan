@@ -1,6 +1,6 @@
 {
   "name": "kaiyuan1",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "实现Javascript引用类型数据的深拷贝功能",
   "main": "index.js",
   "directories": {
@@ -11,8 +11,7 @@
     "LICENSE"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "node postinstall.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
